@@ -1,0 +1,7 @@
+com\rihab\users\UsersMicroserviceApplication.class
+com\rihab\users\repos\RoleRepository.class
+com\rihab\users\entities\Role.class
+com\rihab\users\entities\User.class
+com\rihab\users\service\UserService.class
+com\rihab\users\repos\UserRepository.class
+com\rihab\users\service\UserServiceImpl.class
